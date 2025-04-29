@@ -14,7 +14,7 @@ I am a college student of [IIT BHU](https://en.wikipedia.org/wiki/IIT_(BHU)_Vara
 - ⚡ Fun fact: ...
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-OGGY-30)
-![image](https://github-readme-stats.vercel.app/api?username=MR-OGGY-30)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-OGGY-30&theme=vue)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=codeninja094)
+![image](https://github-readme-stats.vercel.app/api?username=codeninja094)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeninja094&theme=vue)
 
